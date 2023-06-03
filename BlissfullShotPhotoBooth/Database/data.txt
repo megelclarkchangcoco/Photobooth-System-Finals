@@ -1,0 +1,8 @@
+Organizer , Celebrant , Contact , Event Place , Event Type , Amount , Layout , Design , Backdrops , Magnetic , Extend , FileName , Date
+Thompson/Klay/092955274/Jollibee/1st BIrthday/3000.0 DP/Standard/7. Frozen/10. Light White/Magnetic//Insert File /2023-06-30
+Thompson/Klay/092955274/Jollibee/1st BIrthday/3000.0 Paid/Standard/7. Frozen/10. Light White/Magnetic//Insert File /2023-06-30
+sad/asdas/123123213/sdas/sad/3500.0 Paid/Standard/21. Babyshark/1. Green Screen/Magnetic/30 Minute/Insert File/12:20:2014
+Manager/Group Party/092929929/Chwoking/Christmas Party/4800.0 Paid/Standard/7. Barbie Design/6. Pink/Magnetic/1 Hour/Insert File/12:25:2023
+Manager/Group Party/092929929/Chwoking/Christmas Party/500.0 DP/Standard/7. Barbie Design/6. Pink/Magnetic/1 Hour/Insert File/12:25:2023
+Megels/Migsxtan/125478895/Lucio tan/Wedding /5000.0 Paid/Standard/1. White - Gray - Green/10. Light White/Magnetic/30 Minute/Insert File/12:01:2024
+Khlamebang/Berting/000123465/Mcdonalds/Suprise Event/2500.0 DP/Standard/1. Polaroid Height(4.1) Width(4.1)/8. Silver/Magnetic/1 Hour/Insert File/11:11:2025
